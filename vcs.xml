@@ -6,7 +6,16 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="cckn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shd00700/EssMqtt" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cckn/EssMqtt2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\enitt\go\src\github.com\cckn" />
   </component>
 </application>
