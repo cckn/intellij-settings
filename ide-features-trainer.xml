@@ -11,40 +11,56 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="Actions" value="PASSED" />
-        <entry key="Basic Completion" value="PASSED" />
-        <entry key="Code completion for pointers" value="NOT_PASSED" />
-        <entry key="Code completion for type assertions and switch constructions" value="NOT_PASSED" />
-        <entry key="Completion with Tab" value="PASSED" />
-        <entry key="Debug function calls" value="NOT_PASSED" />
-        <entry key="Goland2019.2.ExtractMethodRefactoringWithReturns" value="NOT_PASSED" />
-        <entry key="Goland2019.2.FillStructFields" value="NOT_PASSED" />
-        <entry key="Goland2019.2.RedundantTypeConversions" value="NOT_PASSED" />
-        <entry key="Goland2019.3.CreateFunctionFromFunctionType" value="NOT_PASSED" />
-        <entry key="Goland2019.3.DeleteParameterNames" value="NOT_PASSED" />
-        <entry key="Goland2019.3.DeleteUnusedParameters" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ExtractVariableWithError" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ForrLiveTemplate" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ReuseSignatureTypes" value="NOT_PASSED" />
-        <entry key="GopherCon.CodeFormatting" value="PASSED" />
-        <entry key="GopherCon.CommentLine" value="PASSED" />
-        <entry key="GopherCon.ExtractFunction/Method" value="PASSED" />
-        <entry key="GopherCon.ExtractVariable" value="PASSED" />
-        <entry key="GopherCon.FormatStringArgument" value="PASSED" />
-        <entry key="GopherCon.GoFmt" value="PASSED" />
-        <entry key="GopherCon.ImplementMissingMethods" value="PASSED" />
-        <entry key="GopherCon.Inline" value="PASSED" />
-        <entry key="GopherCon.Rename" value="PASSED" />
-        <entry key="Handling errors with live and postfix templates" value="NOT_PASSED" />
-        <entry key="Method-Like Function Completion" value="PASSED" />
-        <entry key="New live and postfix templates" value="NOT_PASSED" />
-        <entry key="Postfix Completion" value="PASSED" />
-        <entry key="Postfix templates" value="NOT_PASSED" />
-        <entry key="Quick-fixes and refactorings in GoLand 2020.1" value="NOT_PASSED" />
-        <entry key="Select" value="PASSED" />
-        <entry key="Smart Type Completion" value="PASSED" />
-        <entry key="Using the Implement Methods action" value="NOT_PASSED" />
-        <entry key="Working with types" value="NOT_PASSED" />
+        <entry key="actions" value="PASSED" />
+        <entry key="basic completion" value="PASSED" />
+        <entry key="code completion for functions" value="NOT_PASSED" />
+        <entry key="code completion for pointers" value="NOT_PASSED" />
+        <entry key="code completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="completion with tab" value="PASSED" />
+        <entry key="debug function calls" value="NOT_PASSED" />
+        <entry key="editorbasics.commentline" value="NOT_PASSED" />
+        <entry key="fixing a test file" value="NOT_PASSED" />
+        <entry key="generate missing methods" value="NOT_PASSED" />
+        <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
+        <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
+        <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
+        <entry key="goland2019.3.createfunctionfromfunctiontype" value="NOT_PASSED" />
+        <entry key="goland2019.3.deleteparameternames" value="NOT_PASSED" />
+        <entry key="goland2019.3.deleteunusedparameters" value="NOT_PASSED" />
+        <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
+        <entry key="goland2019.3.forrlivetemplate" value="NOT_PASSED" />
+        <entry key="goland2019.3.reusesignaturetypes" value="NOT_PASSED" />
+        <entry key="gophercon.codeformatting" value="PASSED" />
+        <entry key="gophercon.commentline" value="PASSED" />
+        <entry key="gophercon.extractfunction/method" value="PASSED" />
+        <entry key="gophercon.extractvariable" value="PASSED" />
+        <entry key="gophercon.formatstringargument" value="PASSED" />
+        <entry key="gophercon.gofmt" value="PASSED" />
+        <entry key="gophercon.implementmissingmethods" value="PASSED" />
+        <entry key="gophercon.inline" value="PASSED" />
+        <entry key="gophercon.rename" value="PASSED" />
+        <entry key="handling errors with live and postfix templates" value="NOT_PASSED" />
+        <entry key="handling errors with live and postfix templates: if and rr" value="NOT_PASSED" />
+        <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
+        <entry key="method-like function completion" value="PASSED" />
+        <entry key="navigation from comments" value="NOT_PASSED" />
+        <entry key="new live and postfix templates" value="NOT_PASSED" />
+        <entry key="postfix completion" value="PASSED" />
+        <entry key="postfix completion with sort" value="NOT_PASSED" />
+        <entry key="postfix templates" value="NOT_PASSED" />
+        <entry key="postfix templates (nn, panic, rr, and return)" value="NOT_PASSED" />
+        <entry key="quick-fixes and refactorings in goland 2020.1" value="NOT_PASSED" />
+        <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
+        <entry key="select" value="PASSED" />
+        <entry key="smart type completion" value="PASSED" />
+        <entry key="smart type completion and pointers" value="NOT_PASSED" />
+        <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="struct inspections" value="NOT_PASSED" />
+        <entry key="using live templates with types" value="NOT_PASSED" />
+        <entry key="using the implement methods action" value="NOT_PASSED" />
+        <entry key="working with types" value="NOT_PASSED" />
+        <entry key="working with variadic functions" value="NOT_PASSED" />
+        <entry key="wrapping long lines" value="NOT_PASSED" />
       </map>
     </option>
   </component>
